@@ -17,7 +17,7 @@ secretary.js:
     
     2) 讓欲熱詞更新 ES 指向 {ur_ip}:32999
     
-    3) node server.js\n
+    3) node server.js  
     
 預先準備:  
     1) node.js   
