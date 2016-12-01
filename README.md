@@ -19,6 +19,6 @@ secretary.js:
     
     3) node server.js\n
     
-預先準備:
-    1) node.js
+預先準備:  
+    1) node.js   
     2) 比對新舊詞用的ES
